@@ -1,0 +1,6 @@
+class Irepository {
+
+  void Test(){
+
+  }
+}
